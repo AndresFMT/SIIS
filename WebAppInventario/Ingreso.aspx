@@ -11,6 +11,7 @@
 <body class="bg-black">
       <form id="form1" runat="server">
           <h1>Prueba</h1>
+          <h1>Prueba</h1>
     <div class ="form-box" id="login-box">
         <div class="header">Ingreso Inventario </div>
        
